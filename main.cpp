@@ -10,6 +10,7 @@ int main() {
     int choice;
 
     while(true) {
+    cout<<endl;
     cout<<"----------- welcome ----------------"<<endl;
     cout<<"Enter 1 for Register : "<<endl;
     cout<<"Enter 2 for Login : "<<endl;
